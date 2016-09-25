@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsyncTaskMovieDB</string>
+    <string name="tmdb_image_base_url" translatable="false">http://image.tmdb.org/t/p/w500</string>
+</resources>
